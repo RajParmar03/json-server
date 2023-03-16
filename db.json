@@ -22,7 +22,7 @@
       "no_of_persons": "14",
       "capacity": "15",
       "cost": "4567",
-      "booked": true,
+      "booked": false,
       "id": 1
     },
     {
@@ -33,19 +33,63 @@
       "no_of_persons": "4",
       "capacity": "5",
       "cost": "4365",
-      "booked": true,
+      "booked": false,
       "id": 2
     },
     {
       "category": "Suite",
       "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1vFN50cqmWWEb5BCDbVctSDWd63xb-GNkJQ&usqp=CAU",
       "type_of_room": "AC",
-      "bed_type": "Single",
-      "no_of_persons": "0",
-      "capacity": "0",
-      "cost": "1000000",
-      "booked": true,
+      "bed_type": "Double",
+      "no_of_persons": "5",
+      "capacity": "6",
+      "cost": "10000",
+      "booked": false,
       "id": 3
+    },
+    {
+      "category": "Suite",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRojnPTA42SiG3kBWKoS-ygpKxZNKBF_dRTQ&usqp=CAU",
+      "type_of_room": "AC",
+      "bed_type": "Single",
+      "no_of_persons": "6",
+      "capacity": "8",
+      "cost": "9000",
+      "booked": false,
+      "id": 4
+    },
+    {
+      "category": "Deluxe",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKyGJOCkwCdzJlUb7WqopihizMJztl2R1UEA&usqp=CAU",
+      "type_of_room": "AC",
+      "bed_type": "Double",
+      "no_of_persons": "7",
+      "capacity": "12",
+      "cost": "8000",
+      "booked": false,
+      "id": 5
+    },
+    {
+      "category": "Deluxe",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5b7wort3-ZhcPN0z_8SwPkQdhuEu7bpSKhw&usqp=CAU",
+      "type_of_room": "AC",
+      "bed_type": "Single",
+      "no_of_persons": "8",
+      "capacity": "11",
+      "cost": "7000",
+      "booked": false,
+      "id": 6
+    },
+    {
+      "category": "Deluxe",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8gLFDA1r_4Zl9LUgBHzu2w1RQYtzRw6pMTQ&usqp=CAU",
+      "type_of_room": "AC",
+      "bed_type": "Double",
+      "no_of_persons": "9",
+      "capacity": "10",
+      "cost": "6000",
+      "booked": false,
+      "id": 7
     }
   ]
 }
