@@ -1,26 +1,51 @@
 {
-    "books": [
-      {
-        "image_url": "",
-        "book_name": "",
-        "author": "",
-        "genre": "",
-        "edition": "",
-        "publisher": "",
-        "cost": "",
-        "borrowed": false,
-        "id": 2
-      },
-      {
-        "image_url": "arewgtsdgf",
-        "book_name": "sdgsadg",
-        "author": "sdgasdg",
-        "genre": "Science",
-        "edition": "2021",
-        "publisher": "sdgsadg",
-        "cost": "sdgsadg",
-        "borrowed": false,
-        "id": 3
-      }
-    ]
-  }
+  "users": [
+    {
+      "username": "sagdsag",
+      "email": "sdgsadg",
+      "password": "sadg",
+      "id": 1
+    },
+    {
+      "username": "rajparmar",
+      "email": "rajparmar123@gmail.com",
+      "password": "rajparmar123",
+      "id": 2
+    }
+  ],
+  "hotels": [
+    {
+      "category": "Family",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU4kQefzLgJZRQXCzL8vLP_o9IgwZRvUSGfg&usqp=CAU",
+      "type_of_room": "AC",
+      "bed_type": "Single",
+      "no_of_persons": "14",
+      "capacity": "15",
+      "cost": "4567",
+      "booked": true,
+      "id": 1
+    },
+    {
+      "category": "Family",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkbkQvBW7lM7p0QCQAjGo6vypkhZKBFKhd9w&usqp=CAU",
+      "type_of_room": "AC",
+      "bed_type": "Double",
+      "no_of_persons": "4",
+      "capacity": "5",
+      "cost": "4365",
+      "booked": true,
+      "id": 2
+    },
+    {
+      "category": "Suite",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1vFN50cqmWWEb5BCDbVctSDWd63xb-GNkJQ&usqp=CAU",
+      "type_of_room": "AC",
+      "bed_type": "Single",
+      "no_of_persons": "0",
+      "capacity": "0",
+      "cost": "1000000",
+      "booked": true,
+      "id": 3
+    }
+  ]
+}
