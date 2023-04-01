@@ -1,89 +1,22 @@
 {
   "users": [
     {
-      "username": "raj",
-      "email": "raj@gmail.com",
-      "password": "raj",
-      "id": 1
-    }
-  ],
-  "movies": [
-    {
-      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ_aBxA44Efn8bJRdy5OC6_eFH8KEjEEg6M7a269T3XmcpQ14lu40-QznO2f73Q8L1TsUGxvvhN5Q&usqp=CAU&ec=48665701",
-      "title": "good bye",
-      "director": "amitabh bachan",
-      "year": "2023-03-07",
-      "genre": "Comedy",
-      "IMDB_Rating": "4",
-      "ticket": "250",
-      "buyer": "",
-      "id": 1
-    },
-    {
-      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQObbkHp3pvO-lX5ngQWBxiR83vyd41wzfKCVVXPb9gHQ&usqp=CAU&ec=48665701",
-      "title": "avengers",
-      "director": "tony strac",
-      "year": "2021-02-07",
-      "genre": "Action",
-      "IMDB_Rating": "5",
-      "ticket": "500",
-      "buyer": "",
-      "id": 2
-    },
-    {
-      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtwVbgMclyD8WQZb7aO57PDgHYNTWm-7Es8NnyuoV2CS-i1QSsBRmfuTluDodB_wbNK0bgKwQ2xak&usqp=CAU&ec=48665701",
-      "title": "annebella",
-      "director": "arjun",
-      "year": "2022-01-19",
-      "genre": "Horror",
-      "IMDB_Rating": "4.5",
-      "ticket": "400",
-      "buyer": "",
+      "name": "raj",
+      "difficulty": "Medium",
+      "score": 21,
       "id": 3
     },
     {
-      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyV0DLJoVOgnoUfoPpYTq4z-tXaHtT_YXnySjYROgjHg&usqp=CAU&ec=48665701",
-      "title": "Hello world",
-      "director": "wolrd",
-      "year": "2023-03-22",
-      "genre": "Romance",
-      "IMDB_Rating": "4",
-      "ticket": "550",
-      "buyer": "",
+      "name": "raj parmar",
+      "difficulty": "Easy",
+      "score": 20,
       "id": 4
     },
     {
-      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLMYeFRae5ricB-ZCknCkZygr8A_5E6FsZB84-gE9MWQ&usqp=CAU&ec=48665701",
-      "title": "rrr",
-      "director": "rama",
-      "year": "2023-03-31",
-      "genre": "Action",
-      "IMDB_Rating": "6",
-      "ticket": "1000",
-      "buyer": "",
+      "name": "pratik",
+      "difficulty": "Medium",
+      "score": 28,
       "id": 5
-    },
-    {
-      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTauCaVVVjwOp0wb2dN9kaCLCnxiCO2_IIaeOW-zEdTbA&usqp=CAU&ec=48665701",
-      "title": "kantara",
-      "director": "kanu",
-      "year": "2022-11-17",
-      "genre": "Horror",
-      "IMDB_Rating": "4",
-      "ticket": "450",
-      "buyer": "",
-      "id": 6
-    },
-    {
-      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnlVhbk5BW5pZo2Q6YnISZcmxGfI95lWvoRcS4UtloyA&usqp=CAU&ec=48665701",
-      "title": "farzi",
-      "director": "shahid",
-      "year": "2022-12-22",
-      "genre": "Romance",
-      "IMDB_Rating": "4",
-      "ticket": "210",
-      "buyer": "",
-      "id": 7
     }
   ]
 }
